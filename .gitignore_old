@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.iml
 .gradle
 /local.properties
@@ -8,6 +9,8 @@
 /captures
 .externalNativeBuild
 
+=======
+>>>>>>> e88d454f6cdb0c9ca5cc4db6e788935a9224dae5
 # Built application files
 *.apk
 *.ap_
