@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JuniverseLib.iml" filepath="$PROJECT_DIR$/JuniverseLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/lib/app.iml" filepath="$PROJECT_DIR$/lib/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/lib.iml" filepath="$PROJECT_DIR$/lib/lib.iml" />
     </modules>
   </component>
 </project>
